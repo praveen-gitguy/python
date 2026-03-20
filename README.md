@@ -21,6 +21,8 @@ Each topic is in its own file with numbered sections, inline comments, and runna
 | 10 | `10_oop.py` | OOP | Classes, inheritance, encapsulation, polymorphism, dunder methods |
 | 11 | `11_error_handling.py` | Error Handling | `try/except/else/finally`, `raise`, custom exceptions |
 | 12 | `12_file_handling.py` | File Handling | Read/write text, CSV, and JSON files |
+| 13 | `13_virtual_env.md` | Virtual Environments | venv, pip, uv, requirements.txt, project setup |
+| 14 | `14_modules_packages.py` | Modules & Packages | Imports, pip install, creating modules, ML/AI package list |
 
 ---
 

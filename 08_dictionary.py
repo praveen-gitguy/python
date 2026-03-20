@@ -33,8 +33,9 @@ print(person)
 # 4. Removing
 # ----------------------------
 removed = person.pop("email")        # Remove & return value
-last    = person.popitem()           # Remove last inserted pair
 del person["job"]                    # Delete key (no return)
+last    = person.popitem()           # Remove last inserted pair
+print(f"Popped: {removed}, Last: {last}")
 print(person)
 
 # ----------------------------
